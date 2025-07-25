@@ -1,0 +1,98 @@
+[
+  {
+    "ID": "inf001",
+    "name": "FitGuru",
+    "category": "Fitness",
+    "gender": "Male",
+    "followerCount": 50000,
+    "platform": "Instagram"
+  },
+  {
+    "ID": "inf002",
+    "name": "WellnessQueen",
+    "category": "Wellness",
+    "gender": "Female",
+    "followerCount": 42000,
+    "platform": "YouTube"
+  },
+  {
+    "ID": "inf003",
+    "name": "YogaFlex",
+    "category": "Fitness",
+    "gender": "Female",
+    "followerCount": 60000,
+    "platform": "Instagram"
+  },
+  {
+    "ID": "inf004",
+    "name": "HealthyEats",
+    "category": "Wellness",
+    "gender": "Male",
+    "followerCount": 35000,
+    "platform": "Facebook"
+  },
+  {
+    "ID": "inf005",
+    "name": "CardioKing",
+    "category": "Fitness",
+    "gender": "Male",
+    "followerCount": 75000,
+    "platform": "TikTok"
+  },
+  {
+    "ID": "inf006",
+    "name": "MindfulLife",
+    "category": "Wellness",
+    "gender": "Female",
+    "followerCount": 55000,
+    "platform": "YouTube"
+  },
+  {
+    "ID": "inf007",
+    "name": "ProteinPrince",
+    "category": "Fitness",
+    "gender": "Male",
+    "followerCount": 90000,
+    "platform": "Instagram"
+  },
+  {
+    "ID": "inf008",
+    "name": "ZenFlow",
+    "category": "Wellness",
+    "gender": "Female",
+    "followerCount": 48000,
+    "platform": "Instagram"
+  },
+  {
+    "ID": "inf009",
+    "name": "LiftHeavy",
+    "category": "Fitness",
+    "gender": "Male",
+    "followerCount": 120000,
+    "platform": "YouTube"
+  },
+  {
+    "ID": "inf010",
+    "name": "VeganVibes",
+    "category": "Wellness",
+    "gender": "Female",
+    "followerCount": 62000,
+    "platform": "TikTok"
+  },
+  {
+    "ID": "inf011",
+    "name": "EndurancePro",
+    "category": "Fitness",
+    "gender": "Male",
+    "followerCount": 85000,
+    "platform": "Facebook"
+  },
+  {
+    "ID": "inf012",
+    "name": "NutritionNerd",
+    "category": "Wellness",
+    "gender": "Male",
+    "followerCount": 71000,
+    "platform": "YouTube"
+  }
+]

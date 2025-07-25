@@ -1,0 +1,122 @@
+[
+  {
+    "source": "Instagram",
+    "campaign": "Summer Shred",
+    "influencer_id": "inf001",
+    "user_id": "usr445",
+    "product": "MuscleBlaze Whey",
+    "date": "2025-07-02T00:00:00.000Z",
+    "orders": 17,
+    "revenue": 8100
+  },
+  {
+    "source": "YouTube",
+    "campaign": "Monsoon Bulk Up",
+    "influencer_id": "inf002",
+    "user_id": "usr496",
+    "product": "Omega 3",
+    "date": "2025-07-07T00:00:00.000Z",
+    "orders": 11,
+    "revenue": 5900
+  },
+  {
+    "source": "Instagram",
+    "campaign": "Fit Life",
+    "influencer_id": "inf003",
+    "user_id": "usr497",
+    "product": "Yoga Mat",
+    "date": "2025-07-11T00:00:00.000Z",
+    "orders": 25,
+    "revenue": 10000
+  },
+  {
+    "source": "Facebook",
+    "campaign": "Healthy Habits",
+    "influencer_id": "inf004",
+    "user_id": "usr498",
+    "product": "Green Tea",
+    "date": "2025-07-13T00:00:00.000Z",
+    "orders": 15,
+    "revenue": 6000
+  },
+  {
+    "source": "TikTok",
+    "campaign": "Cardio Challenge",
+    "influencer_id": "inf005",
+    "user_id": "usr499",
+    "product": "Pre-workout",
+    "date": "2025-07-16T00:00:00.000Z",
+    "orders": 30,
+    "revenue": 12000
+  },
+  {
+    "source": "YouTube",
+    "campaign": "Mind & Body",
+    "influencer_id": "inf006",
+    "user_id": "usr500",
+    "product": "Ashwagandha",
+    "date": "2025-07-19T00:00:00.000Z",
+    "orders": 18,
+    "revenue": 7200
+  },
+  {
+    "source": "Instagram",
+    "campaign": "Gainz Season",
+    "influencer_id": "inf007",
+    "user_id": "usr501",
+    "product": "Creatine",
+    "date": "2025-07-21T00:00:00.000Z",
+    "orders": 40,
+    "revenue": 20000
+  },
+  {
+    "source": "Instagram",
+    "campaign": "Wellness Journey",
+    "influencer_id": "inf008",
+    "user_id": "usr502",
+    "product": "Vitamin C",
+    "date": "2025-07-23T00:00:00.000Z",
+    "orders": 20,
+    "revenue": 8000
+  },
+  {
+    "source": "YouTube",
+    "campaign": "Power Lifting",
+    "influencer_id": "inf009",
+    "user_id": "usr503",
+    "product": "Mass Gainer",
+    "date": "2025-07-26T00:00:00.000Z",
+    "orders": 50,
+    "revenue": 25000
+  },
+  {
+    "source": "TikTok",
+    "campaign": "Plant Power",
+    "influencer_id": "inf010",
+    "user_id": "usr504",
+    "product": "Vegan Protein",
+    "date": "2025-07-29T00:00:00.000Z",
+    "orders": 22,
+    "revenue": 6380
+  },
+  {
+    "source": "Facebook",
+    "campaign": "Endurance Boost",
+    "influencer_id": "inf011",
+    "user_id": "usr505",
+    "product": "BCAA",
+    "date": "2025-07-31T00:00:00.000Z",
+    "orders": 35,
+    "revenue": 13300
+  },
+  {
+    "source": "YouTube",
+    "campaign": "Nutrition 101",
+    "influencer_id": "inf012",
+    "user_id": "usr506",
+    "product": "Multivitamin",
+    "date": "2025-08-02T00:00:00.000Z",
+    "orders": 28,
+    "revenue": 8680
+  }
+]

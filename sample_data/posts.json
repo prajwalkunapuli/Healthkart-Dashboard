@@ -1,0 +1,122 @@
+[
+  {
+    "influencer_id": "inf001",
+    "platform": "Instagram",
+    "date": "2025-07-01T00:00:00.000Z",
+    "URL": "https://instagram.com/p/xyz",
+    "caption": "Promoting new MuscleBlaze protein!",
+    "reach": 10000,
+    "likes": 1200,
+    "comments": 150
+  },
+  {
+    "influencer_id": "inf002",
+    "platform": "YouTube",
+    "date": "2025-07-05T00:00:00.000Z",
+    "URL": "https://youtube.com/watch?v=abc",
+    "caption": "Full review of Omega multivitamins.",
+    "reach": 8000,
+    "likes": 830,
+    "comments": 90
+  },
+  {
+    "influencer_id": "inf003",
+    "platform": "Instagram",
+    "date": "2025-07-10T00:00:00.000Z",
+    "URL": "https://instagram.com/p/abc",
+    "caption": "Morning yoga session with HealthKart gear.",
+    "reach": 15000,
+    "likes": 2000,
+    "comments": 250
+  },
+  {
+    "influencer_id": "inf004",
+    "platform": "Facebook",
+    "date": "2025-07-12T00:00:00.000Z",
+    "URL": "https://facebook.com/post/def",
+    "caption": "My favorite healthy snacks from HealthKart.",
+    "reach": 5000,
+    "likes": 500,
+    "comments": 50
+  },
+  {
+    "influencer_id": "inf005",
+    "platform": "TikTok",
+    "date": "2025-07-15T00:00:00.000Z",
+    "URL": "https://tiktok.com/v/ghi",
+    "caption": "High-energy cardio workout fueled by HealthKart.",
+    "reach": 25000,
+    "likes": 3000,
+    "comments": 300
+  },
+  {
+    "influencer_id": "inf006",
+    "platform": "YouTube",
+    "date": "2025-07-18T00:00:00.000Z",
+    "URL": "https://youtube.com/watch?v=jkl",
+    "caption": "Guided meditation for a mindful life.",
+    "reach": 12000,
+    "likes": 1500,
+    "comments": 180
+  },
+  {
+    "influencer_id": "inf007",
+    "platform": "Instagram",
+    "date": "2025-07-20T00:00:00.000Z",
+    "URL": "https://instagram.com/p/mno",
+    "caption": "Crushing my workout with the best protein.",
+    "reach": 30000,
+    "likes": 4000,
+    "comments": 400
+  },
+  {
+    "influencer_id": "inf008",
+    "platform": "Instagram",
+    "date": "2025-07-22T00:00:00.000Z",
+    "URL": "https://instagram.com/p/pqr",
+    "caption": "Finding my zen with HealthKart's wellness products.",
+    "reach": 10000,
+    "likes": 1100,
+    "comments": 120
+  },
+  {
+    "influencer_id": "inf009",
+    "platform": "YouTube",
+    "date": "2025-07-25T00:00:00.000Z",
+    "URL": "https://youtube.com/watch?v=stu",
+    "caption": "My heavy lifting routine and supplements.",
+    "reach": 40000,
+    "likes": 5000,
+    "comments": 500
+  },
+  {
+    "influencer_id": "inf010",
+    "platform": "TikTok",
+    "date": "2025-07-28T00:00:00.000Z",
+    "URL": "https://tiktok.com/v/vwx",
+    "caption": "Vegan protein smoothie recipe!",
+    "reach": 20000,
+    "likes": 2500,
+    "comments": 280
+  },
+  {
+    "influencer_id": "inf011",
+    "platform": "Facebook",
+    "date": "2025-07-30T00:00:00.000Z",
+    "URL": "https://facebook.com/post/yza",
+    "caption": "Pushing my limits with HealthKart's endurance range.",
+    "reach": 18000,
+    "likes": 1800,
+    "comments": 200
+  },
+  {
+    "influencer_id": "inf012",
+    "platform": "YouTube",
+    "date": "2025-08-01T00:00:00.000Z",
+    "URL": "https://youtube.com/watch?v=bcd",
+    "caption": "A deep dive into nutrition and supplements.",
+    "reach": 22000,
+    "likes": 2200,
+    "comments": 240
+  }
+]

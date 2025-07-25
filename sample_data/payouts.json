@@ -1,0 +1,86 @@
+[
+  {
+    "influencer_id": "inf001",
+    "basis": "order",
+    "rate": 300,
+    "orders": 17,
+    "total_payout": 5100
+  },
+  {
+    "influencer_id": "inf002",
+    "basis": "order",
+    "rate": 250,
+    "orders": 11,
+    "total_payout": 2750
+  },
+  {
+    "influencer_id": "inf003",
+    "basis": "order",
+    "rate": 320,
+    "orders": 25,
+    "total_payout": 8000
+  },
+  {
+    "influencer_id": "inf004",
+    "basis": "order",
+    "rate": 280,
+    "orders": 15,
+    "total_payout": 4200
+  },
+  {
+    "influencer_id": "inf005",
+    "basis": "order",
+    "rate": 350,
+    "orders": 30,
+    "total_payout": 10500
+  },
+  {
+    "influencer_id": "inf006",
+    "basis": "order",
+    "rate": 260,
+    "orders": 18,
+    "total_payout": 4680
+  },
+  {
+    "influencer_id": "inf007",
+    "basis": "order",
+    "rate": 400,
+    "orders": 40,
+    "total_payout": 16000
+  },
+  {
+    "influencer_id": "inf008",
+    "basis": "order",
+    "rate": 270,
+    "orders": 20,
+    "total_payout": 5400
+  },
+  {
+    "influencer_id": "inf009",
+    "basis": "order",
+    "rate": 450,
+    "orders": 50,
+    "total_payout": 22500
+  },
+  {
+    "influencer_id": "inf010",
+    "basis": "order",
+    "rate": 290,
+    "orders": 22,
+    "total_payout": 6380
+  },
+  {
+    "influencer_id": "inf011",
+    "basis": "order",
+    "rate": 380,
+    "orders": 35,
+    "total_payout": 13300
+  },
+  {
+    "influencer_id": "inf012",
+    "basis": "order",
+    "rate": 310,
+    "orders": 28,
+    "total_payout": 8680
+  }
+]
