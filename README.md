@@ -1,8 +1,8 @@
-# HealthKart Influencer Dashboard
+**HealthKart Influencer Dashboard**
 
 A comprehensive dashboard for managing and tracking influencer marketing campaigns for HealthKart. This application provides insights into influencer performance, campaign tracking, and payout management.
 
-# Features
+**Features**
 
 - **Campaign Tracking**: Monitor the performance of influencer campaigns in real-time
 - **Influencer Management**: View and manage all influencer profiles and their performance metrics
@@ -11,13 +11,13 @@ A comprehensive dashboard for managing and tracking influencer marketing campaig
 - **Multi-platform Support**: Track performance across different social media platforms
 - **Responsive Design**: Works on desktop and mobile devices
 
-# Installation
+**Installation**
 
  Prerequisites
 - Node.js (v14 or higher)
 - npm (v6 or higher) or yarn
 
-# Setup Instructions
+**Setup Instructions**
 
 1. **Clone the repository**
    ```bash
@@ -37,7 +37,7 @@ A comprehensive dashboard for managing and tracking influencer marketing campaig
    npm install
    ```
 
-# Configuration
+**Configuration**
 
 1. **Backend Configuration**
    - The application uses JSON files in the `sample_data` directory for data storage
@@ -50,7 +50,7 @@ A comprehensive dashboard for managing and tracking influencer marketing campaig
    NODE_ENV=development
    ```
 
-# Running the Application
+**Running the Application**
 
 1. **Start the backend server**
    ```bash
@@ -66,7 +66,7 @@ A comprehensive dashboard for managing and tracking influencer marketing campaig
    ```
    The frontend will open automatically in your default browser at `http://localhost:3000`
 
-# Data Structure
+**Data Structure**
 
 The application uses the following JSON files for data storage:
 
@@ -75,7 +75,7 @@ The application uses the following JSON files for data storage:
 - `sample_data/tracking.json`: Tracks campaign performance metrics
 - `sample_data/payouts.json`: Manages influencer payment information
 
-# Project Structure
+**Project Structure**
 
 ```
 healthkart-dashbord/
@@ -100,31 +100,31 @@ healthkart-dashbord/
     └── payouts.json
 ```
 
-# Dependencies
+**Dependencies**
 
-### Backend
+ **Backend**
 - Express.js - Web framework
 - CORS - Cross-origin resource sharing
 - Body-parser - Parse incoming request bodies
 - Nodemon - Development server with auto-reload
 
-### Frontend
+ **Frontend**
 - React - JavaScript library for building user interfaces
 - Axios - Promise-based HTTP client
 - React Router - Navigation and routing
 - Styled Components - CSS-in-JS styling
 
-# Notes
+**Notes**
 
 - All monetary values are displayed in Indian Rupees (₹)
 - The application is configured to work with sample data out of the box
 - No database setup is required for initial use
 
-# License
+**License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-# Acknowledgments
+**Acknowledgments**
 
 - Built for HealthKart
 - Special thanks to all contributors
